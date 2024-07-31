@@ -1,7 +1,3 @@
-Sure! Here’s a README with a Table of Contents (ToC) for your "Useful Algorithms for Red Teams" project:
-
----
-
 # Useful Algorithms for Red Teams
 
 Welcome to the **Useful Algorithms for Red Teams** project! This repository is a collection of essential algorithms and tools tailored for offensive security professionals, specifically red teams. Each project demonstrates a different aspect of cybersecurity attack techniques, from network sniffing to password brute forcing, all implemented in Rust for optimal performance and security.
@@ -101,6 +97,3 @@ Contributions are welcome! If you have a new algorithm or improvement, feel free
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-You can create a `README.md` file in your root project directory and add this content to it. This structure ensures that all the necessary information is easily accessible and organized for users.
